@@ -1,0 +1,23 @@
+h2 {
+  text-align: center;
+}
+
+table {
+  width: 80%;
+  margin: 20px auto;
+  border-collapse: collapse;
+}
+
+th,
+td {
+  padding: 10px;
+  text-align: center;
+}
+
+th {
+  background-color: #eeeeee;
+}
+
+img {
+  object-fit: cover;
+}

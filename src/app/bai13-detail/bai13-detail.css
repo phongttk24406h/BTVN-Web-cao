@@ -1,0 +1,23 @@
+h2 {
+  text-align: center;
+}
+
+button {
+  display: block;
+  margin: 20px auto;
+  padding: 8px 15px;
+  cursor: pointer;
+}
+
+table {
+  margin: 20px auto;
+  border-collapse: collapse;
+}
+
+td {
+  padding: 10px 20px;
+}
+
+img {
+  object-fit: cover;
+}
